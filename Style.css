@@ -1,0 +1,40 @@
+body    {
+    background-color: rgba(119, 114, 114, 0.644);
+}
+#Encabezado{
+    display: flex;
+    background-color: rgba(107, 111, 116, 0.479);
+}
+#Logo{
+    max-width: 150px;
+    max-height: 150px;
+}
+#creador{
+    margin: 0%;
+}
+#entrada{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+}
+#calcular{
+    margin: 47%;
+    background-color: #f76540;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#regresar{
+    background-color: #f76540;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#pestaña2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 100px;
+}
